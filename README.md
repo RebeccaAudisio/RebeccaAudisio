@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RebeccaAudisio
 - 👀 I’m interested in database management, network infrastructures and cybersecurity.
 - 🌱 I’m currently attending Computing and Network Infrastructures as part of my Master's degree in Computer Engineering at Politecnico di Torino.
-- 📫 How to reach me https://www.linkedin.com/in/rebecca-audisio/
+- 📫 How to reach me https://www.linkedin.com/in/rebeccaudisio/
 - 😄 Pronouns: she/her
 
 <!---
